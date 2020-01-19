@@ -1,0 +1,43 @@
+
+.main{
+
+}
+.app-header{
+    height: 60px;
+    line-height: 60px;
+    padding-bottom:10px;
+    border-bottom: thin black solid;
+    display:flex;
+    align-items:center;
+}
+
+.main-container{
+    display: flex;
+}
+
+.right-container{
+  margin: 0 auto;
+}
+
+.app-bar{
+    align-items: center;
+}
+
+.title{
+    font-size: 25px;
+    padding-left:25px;
+    padding-bottom:20px;
+}
+
+.filter-text{
+
+}
+
+severity-div{
+
+}
+
+.button{
+  margin:20px 0 0 0;
+
+}
